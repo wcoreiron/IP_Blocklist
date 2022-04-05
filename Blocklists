@@ -23,3 +23,15 @@ https://portal.cybersecurity.mo.gov/util/ip_blacklist.txt
 https://github.com/alsyundawy/hds-pihole-blacklist/blob/21f85386830eed13c3d8dc2077afe03d3806ccb4/adlists.list.updater2
 
 https://github.com/firehol/blocklist-ipsets/blob/master/ciarmy.ipset
+
+https://www.binarydefense.com/banlist.txt?__hstc=103210719.1bb630f9cde2cb5f07430159d50a3c91.1538179200074.1538179200075.1538179200076.1&__hssc=103210719.1.1538179200077&__hsfp=2025384311
+
+https://github.com/MHunt-er/Benchmarking-Malware-Family-Classification/blob/59cb6496f341ea3c48e8d9d8a07c5a30f0e39ecd/Datasets/MalwareBazaar_Labels.csv
+
+https://github.com/SecOps-Institute/SpamhausIPLists/blob/master/drop.txt
+
+https://github.com/SecOps-Institute/Tor-IP-Addresses
+
+https://github.com/adabiraihan/IDS-based-Machine-Learning/blob/d01700fce5084c43eaed8b54ece762d2d5f2d46a/StratosphereLinuxIPS/CHANGELOG.md
+
+https://github.com/firehol/blocklist-ipsets/blob/master/dyndns_ponmocup.ipset
